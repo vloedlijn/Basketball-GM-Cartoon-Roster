@@ -1,0 +1,62 @@
+{
+    "fatness": 0.06,
+    "hairBg": {
+        "id": "none"
+    },
+    "body": {
+        "id": "body4",
+        "color": "#ad8366"
+    },
+    "jersey": {
+        "id": "jersey3"
+    },
+    "ear": {
+        "id": "ear2",
+        "size": 1.06
+    },
+    "head": {
+        "id": "head1",
+        "shave": "rgba(0,0,0,0)"
+    },
+    "eyeLine": {
+        "id": "none"
+    },
+    "smileLine": {
+        "id": "none",
+        "size": 1.17
+    },
+    "miscLine": {
+        "id": "none"
+    },
+    "facialHair": {
+        "id": "chin-strapStache"
+    },
+    "eye": {
+        "id": "eye13",
+        "angle": 1
+    },
+    "eyebrow": {
+        "id": "eyebrow9",
+        "angle": -1
+    },
+    "hair": {
+        "id": "tall-fade",
+        "color": "#000000",
+        "flip": false
+    },
+    "mouth": {
+        "id": "smile3",
+        "flip": false
+    },
+    "nose": {
+        "id": "nose12",
+        "flip": false,
+        "size": 0.8
+    },
+    "glasses": {
+        "id": "none"
+    },
+    "accessories": {
+        "id": "none"
+    }
+}
